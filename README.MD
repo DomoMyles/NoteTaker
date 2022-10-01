@@ -9,8 +9,8 @@ I learned a lot about how databases can react with a javascript file and how to 
 One thing i had a lot of trouble with was the delete function. I simply could not get the system to find the id of the note that I wanted to delete
 
 Screenshot
-![Notes Page](.\public\pics\picture1.JPG)
+[![Notes Page](./public/pics/picture1.JPG)]
 
 Video:
-[![Watch the video](.\public\pics\picture1.JPG)](https://www.youtube.com/watch?v=DV5Vif3tk5I)
+[![Watch the video](./public/pics/picture1.JPG)](https://www.youtube.com/watch?v=DV5Vif3tk5I)
 
